@@ -22,12 +22,13 @@ The project is built as a full-stack application with a TypeScript-based Next.js
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 - **Frontend:** Next.js, React, TypeScript, Material UI
-- **Backend:** Node.js, Express, MongoDB, Mongoose
+- **Backend:** Node.js, Express, JavaScript, MongoDB, Mongoose
 - **Authentication:** HttpOnly cookie sessions, Google OAuth
 - **Validation:** Express Validator, frontend/backend validation rules
 - **SEO:** Dynamic metadata, sitemap, structured data
